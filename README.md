@@ -15,16 +15,34 @@ A plot showing what it means in practice:
 
 ![Volatility decay](volatility_decay.png)
 
-What is often forgotten, is that the daily resetting also help and serve as protection in some cases. Lets take an example where the underlying drops 10% four days in a row:
+What is often forgotten, is that the daily resetting also helps and serves as protection in some cases. Let's take an example where the underlying drops 10% four days in a row:
 
 Underlying: 100 -> 90 -> 81 -> 73 -> 65 - 35% loss
 
 3x Leverage: 100 -> 70 -> 49 -> 35 -> 24 - 76% loss
 
-A 76% loss is a lot less than 3x of 35% loss! If it did not reset daily, the leveraged portfolio would be wiped out as 35*3 = 105% loss!!
+A 76% loss is a lot less than 3x of 35% loss. If it did not reset daily, the leveraged portfolio would be wiped out as 35*3 = 105% loss!
 
-The above example is also helpful when the underlying increases multiple days in a row:
+The same is also true when the underlying increases multiple days in a row:
 
 Underlying: 100 -> 110 -> 121 -> 133 -> 146 - 46% gain
 
 3x Leverage: 100 -> 130 -> 169 -> 220 -> 286 - 186% gain
+
+A 186% gain is a lot better than the expected 46*3 = 138% gain.
+
+## Backtests. 
+
+### plots
+
+#### End values compared to 1x:
+
+#### Raw end values:
+
+### Output, median, percentiles, etc:
+
+#### 5000 lump sum + 500/month DCA:
+![DCA](Logs%20output/DCA.png)
+
+#### 10000 lump sum:
+![DCA](Logs%20output/LumpSum.png)
