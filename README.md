@@ -44,7 +44,7 @@ A 186% gain is a lot better than the expected 46*3 = 138% gain.
 |![DCA125](DCA/DCA250.png)  |  ![DCA125Values](ValueDCA/ValueDCA250.png)|
 |![DCA125](DCA/DCA500.png)  |  ![DCA125Values](ValueDCA/ValueDCA500.png)|
 
-
+test
 
 #### End values compared to 1x:
 
