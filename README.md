@@ -31,18 +31,26 @@ Underlying: 100 -> 110 -> 121 -> 133 -> 146 - 46% gain
 
 A 186% gain is a lot better than the expected 46*3 = 138% gain.
 
-## Backtests. 
+## Backtests
 
-### plots
+### plots (250 trading days = 1 year)
+
+#### 5000 lump sum + 500/month DCA:
+
+##### 125 days
+
+![DCA125](DCA/DCA125.png) ![DCA125Values](ValueDCA/ValueDCA125.png)
+
+
 
 #### End values compared to 1x:
 
 #### Raw end values:
 
-### Output, median, percentiles, etc:
+### LOTS OF NUMBERS - mean, median, percentiles, probabilities etc:
 
 #### 5000 lump sum + 500/month DCA:
 ![DCA](Logs%20output/DCA.png)
 
-#### 10000 lump sum:
+#### 10000 lump sum no DCA:
 ![DCA](Logs%20output/LumpSum.png)
