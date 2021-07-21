@@ -38,8 +38,11 @@ A 186% gain is a lot better than the expected 46*3 = 138% gain.
 #### 5000 lump sum + 500/month DCA:
 
 ##### 125 days
-
-![DCA125](DCA/DCA125.png) ![DCA125Values](ValueDCA/ValueDCA125.png)
+| End value compared to SPY  |  Raw end values   |
+:-------------------------:|:-------------------------:
+|![DCA125](DCA/DCA125.png)  |  ![DCA125Values](ValueDCA/ValueDCA125.png)|
+|![DCA125](DCA/DCA250.png)  |  ![DCA125Values](ValueDCA/ValueDCA250.png)|
+|![DCA125](DCA/DCA500.png)  |  ![DCA125Values](ValueDCA/ValueDCA500.png)|
 
 
 
