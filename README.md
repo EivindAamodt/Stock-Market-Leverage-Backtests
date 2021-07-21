@@ -33,27 +33,48 @@ A 186% gain is a lot better than the expected 46*3 = 138% gain.
 
 ## Backtests
 
-### plots (250 trading days = 1 year)
+### 5k lump sum + 500/month DCA:
 
-#### 5000 lump sum + 500/month DCA:
+###¤ Lots of data - mean, median, percentiles, probabilities etc:
+250 trading days = 1 year
 
-##### 125 days
-| End value compared to SPY  |  Raw end values   |
-:-------------------------:|:-------------------------:
-|![DCA125](DCA/DCA125.png)  |  ![DCA125Values](ValueDCA/ValueDCA125.png)|
-|![DCA125](DCA/DCA250.png)  |  ![DCA125Values](ValueDCA/ValueDCA250.png)|
-|![DCA125](DCA/DCA500.png)  |  ![DCA125Values](ValueDCA/ValueDCA500.png)|
-
-test
-
-#### End values compared to 1x:
-
-#### Raw end values:
-
-### LOTS OF NUMBERS - mean, median, percentiles, probabilities etc:
-
-#### 5000 lump sum + 500/month DCA:
 ![DCA](Logs%20output/DCA.png)
 
-#### 10000 lump sum no DCA:
-![DCA](Logs%20output/LumpSum.png)
+
+#### Plots 
+
+| End value compared to SPY  |  Raw end values   |
+:-------------------------:|:-------------------------:
+|![DCA125](DCA/DCA125.png)  |  ![ValueDCA125](ValueDCA/ValueDCA125.png)|
+|![DCA250](DCA/DCA250.png)  |  ![ValueDCA250](ValueDCA/ValueDCA250.png)|
+|![DCA500](DCA/DCA500.png)  |  ![ValueDCA500](ValueDCA/ValueDCA500.png)|
+|![DCA750](DCA/DCA750.png)  |  ![ValueDCA750](ValueDCA/ValueDCA750.png)|
+|![DCA1000](DCA/DCA1000.png)  |  ![ValueDCA1000](ValueDCA/ValueDCA1000.png)|
+|![DCA1500](DCA/DCA1500.png)  |  ![ValueDCA1500](ValueDCA/ValueDCA1500.png)|
+|![DCA2500](DCA/DCA2500.png)  |  ![ValueDCA2500](ValueDCA/ValueDCA2500.png)|
+|![DCA5000](DCA/DCA5000.png)  |  ![ValueDCA5000](ValueDCA/ValueDCA5000.png)|
+|![DCA7500](DCA/DCA7500.png)  |  ![ValueDCA7500](ValueDCA/ValueDCA7500.png)|
+|![DCA1000](DCA/DCA10000.png)  |  ![ValueDCA1000](ValueDCA/ValueDCA10000.png)|
+
+
+
+### 10k lump sum no DCA:
+
+#### LOTS OF NUMBERS - mean, median, percentiles, probabilities etc:
+
+![Lumpsum](Logs%20output/LumpSum.png)
+
+#### Plots
+
+| End value compared to SPY  |  Raw end values   |
+:-------------------------:|:-------------------------:
+|![LumpSum125](LumpSum/LumpSum125.png)  |  ![ValueLumpsum125](ValueLumpsum/ValueLumpsum125.png)|
+|![LumpSum250](LumpSum/LumpSum250.png)  |  ![ValueLumpsum250](ValueLumpsum/ValueLumpsum250.png)|
+|![LumpSum500](LumpSum/LumpSum500.png)  |  ![ValueLumpsum500](ValueLumpsum/ValueLumpsum500.png)|
+|![LumpSum750](LumpSum/LumpSum750.png)  |  ![ValueLumpsum750](ValueLumpsum/ValueLumpsum750.png)|
+|![LumpSum1000](LumpSum/LumpSum1000.png)  |  ![ValueLumpsum1000](ValueLumpsum/ValueLumpsum1000.png)|
+|![LumpSum1500](LumpSum/LumpSum1500.png)  |  ![ValueLumpsum1500](ValueLumpsum/ValueLumpsum1500.png)|
+|![LumpSum2500](LumpSum/LumpSum2500.png)  |  ![ValueLumpsum2500](ValueLumpsum/ValueLumpsum2500.png)|
+|![LumpSum5000](LumpSum/LumpSum5000.png)  |  ![ValueLumpsum5000](ValueLumpsum/ValueLumpsum5000.png)|
+|![LumpSum7500](LumpSum/LumpSum7500.png)  |  ![ValueLumpsum7500](ValueLumpsum/ValueLumpsum7500.png)|
+|![LumpSum1000](LumpSum/LumpSum10000.png)  |  ![ValueLumpsum1000](ValueLumpsum/ValueLumpsum10000.png)|
