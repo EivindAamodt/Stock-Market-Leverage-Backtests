@@ -31,11 +31,12 @@ Underlying: 100 -> 110 -> 121 -> 133 -> 146 - 46% gain
 
 A 186% gain is a lot better than the expected 46*3 = 138% gain.
 
-## Backtests
+## Backtests from 6months up to 40 years
 
 ### 5k lump sum + 500/month DCA:
 
-###¤ Lots of data - mean, median, percentiles, probabilities etc:
+#### Lots of data - mean, median, percentiles, probabilities etc. Plots below:
+
 250 trading days = 1 year
 
 ![DCA](Logs%20output/DCA.png)
@@ -78,3 +79,26 @@ A 186% gain is a lot better than the expected 46*3 = 138% gain.
 |![LumpSum5000](LumpSum/LumpSum5000.png)  |  ![ValueLumpsum5000](ValueLumpsum/ValueLumpsum5000.png)|
 |![LumpSum7500](LumpSum/LumpSum7500.png)  |  ![ValueLumpsum7500](ValueLumpsum/ValueLumpsum7500.png)|
 |![LumpSum1000](LumpSum/LumpSum10000.png)  |  ![ValueLumpsum1000](ValueLumpsum/ValueLumpsum10000.png)|
+
+
+
+
+## Some of the later graphs zoomed in for more clarity:
+
+5000 days (20 years) DCA:
+
+![DCA5000](DCA/DCA5000Zoom.png)
+
+7500 days (30 years) DCA:
+
+![DCA5000](DCA/DCA7500Zoom.png)
+
+10000 days (40 years) DCA:
+
+![DCA5000](DCA/DCA10000Zoom.png)
+
+## Conclusion
+
+There is not a single 30 or 40 year timeframe since 1927 where DCAing into either 2x SPY or 3x SPY lost money compared to just buying SPY, even when holding through the depression in the 1930s, 1970s stagflation, the lost decade from 1999 to 2009, or ending the period at the bottom of the Covid-19 crash. 
+
+Past performance does not guarantee future results, etc etc, but it does seem like having at least a portion of your portfolio in leveraged index funds is a great way to increase wealth, with the rewards heavily outweighing the risks. The hard part is having to stomach watching the extreme portfolio drawdowns during market corrections.
